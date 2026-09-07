@@ -1,0 +1,69 @@
+Entity,Label
+"Natural Language Processing and Artificial Intelligence
+
+Natural Language Processing",ORG
+NLP,ORG
+English,LANGUAGE
+Hindi,GPE
+Assamese,NORP
+Bengali,NORP
+Tamil,GPE
+NLP,ORG
+NLP,ORG
+NLP,ORG
+twenty,CARDINAL
+twenty,DATE
+Python,GPE
+First,ORDINAL
+first,ORDINAL
+thousands,CARDINAL
+hundreds or thousands,CARDINAL
+twenty,CARDINAL
+One,CARDINAL
+Term Frequency-Inverse Document Frequency,ORG
+one,CARDINAL
+one,CARDINAL
+NLP,ORG
+One,CARDINAL
+two,CARDINAL
+GloVe,PERSON
+FastText,ORG
+NLP,ORG
+one,CARDINAL
+NLP,ORG
+Entity Recognition,PERSON
+NER,ORG
+A. P. J. Abdul Kalam,PERSON
+ISRO,ORG
+India,GPE
+A. P. J. Abdul Kalam,PERSON
+ISRO,ORG
+India,GPE
+NER,ORG
+NLP,ORG
+Retrieval-Augmented Generation,ORG
+RAG,PERSON
+NLP,ORG
+one,CARDINAL
+NLP,ORG
+Indic,NORP
+English,LANGUAGE
+NLP,ORG
+NLP,ORG
+more than one,CARDINAL
+NLP,ORG
+English,LANGUAGE
+NLP,ORG
+NLP,ORG
+F1,GPE
+BLEU,ORG
+NLP,ORG
+millions,CARDINAL
+Grammar,PERSON
+NLP,ORG
+Chatbots,PERSON
+NLP,ORG
+Dataset,ORG
+NLP,ORG
+NLP,ORG
+NLP,ORG
