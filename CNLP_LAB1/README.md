@@ -43,7 +43,7 @@ scatter plots.
 
 ## Files
 
-- `Experiment-1_Employee_Data_Analysis.ipynb` — the Jupyter notebook with all 10 tasks, each in its own labeled markdown + code cell.
+- `CNLP_LAB1.ipynb` — the Jupyter notebook with all 10 tasks, each in its own labeled markdown + code cell.
 - `Viva_Explanation_Guide.md` — a line-by-line explanation of every cell, for exam/viva prep.
 - `employee_information_100.csv` — the dataset (place this in the same folder as the notebook, or update the `DATA_PATH` variable in the "Load Dataset" cell).
 
@@ -57,7 +57,7 @@ scatter plots.
    (or update `DATA_PATH` in the "Load Dataset" cell to point to its location).
 3. Launch Jupyter and open the notebook:
    ```bash
-   jupyter notebook Experiment-1_Employee_Data_Analysis.ipynb
+   jupyter notebook CNLP_LAB1.ipynb
    ```
 4. Run all cells from top to bottom (**Cell → Run All**, or `Shift+Enter`
    through each cell in order).
