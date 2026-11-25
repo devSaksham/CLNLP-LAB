@@ -11,7 +11,7 @@ This project implements all three parts of Experiment 4:
 
 | File | Description |
 |---|---|
-| `experiment4.ipynb` | Main Jupyter notebook containing all three parts |
+| `CNLP_LAB4.ipynb` | Main Jupyter notebook containing all three parts |
 | `4.1_4.2_input.txt` | Input text file used by Parts 4.1 and 4.2 |
 | `README.md` | This file |
 
@@ -33,7 +33,7 @@ python -m spacy download en_core_web_sm
 
 ## How to Run
 
-1. Keep `experiment4.ipynb` and `4.1_4.2_input.txt` in the same folder.
+1. Keep `CNLP_LAB4.ipynb` and `4.1_4.2_input.txt` in the same folder.
 2. Install the requirements above.
 3. Open the notebook in Jupyter Notebook, JupyterLab, VS Code, or Google Colab.
 4. Run all cells in order (Part 4.1 → Part 4.2 → Part 4.3).

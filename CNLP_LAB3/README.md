@@ -12,7 +12,7 @@ This notebook implements three sub-experiments in Natural Language Processing te
 
 ## Files
 
-- `Experiment3_Stemming_Lemmatization_Regex.ipynb` — the notebook (outputs pre-run, so you can read results without executing anything)
+- `CNLP_LAB3.ipynb` — the notebook (outputs pre-run, so you can read results without executing anything)
 - `README.md` — this file
 
 ## Requirements

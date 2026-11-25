@@ -62,12 +62,12 @@ summarization all depend on well-preprocessed input.
 
 | File | Description |
 |---|---|
-| `Experiment_2_Text_Preprocessing.ipynb` | Jupyter notebook containing all code for 2.1, 2.2, and 2.3 |
-| `content/2.1_text_data.txt` | Sample paragraph used for preprocessing (2.1) |
-| `content/2.2_tokenization_data.txt` | Sample paragraph used for tokenization (2.2) |
-| `content/2.3_clean_data.txt` | Sample paragraph used for stop word removal (2.3) |
+| `CNLP_LAB2.ipynb` | Jupyter notebook containing all code for 2.1, 2.2, and 2.3 |
+| `2.1_text_data.txt` | Sample paragraph used for preprocessing (2.1) |
+| `2.2_tokenization_data.txt` | Sample paragraph used for tokenization (2.2) |
+| `2.3_clean_data.txt` | Sample paragraph used for stop word removal (2.3) |
 
-> The notebook's setup cell creates the `content/` folder and sample files
+> The notebook's setup cell creates the `` folder and sample files
 > automatically, so it runs standalone without needing them uploaded first.
 
 ## Requirements
@@ -84,7 +84,7 @@ python -m spacy download en_core_web_sm
 
 ## How to Run
 
-1. Open `Experiment_2_Text_Preprocessing.ipynb` in Jupyter or Google Colab.
+1. Open `CNLP_LAB2.ipynb` in Jupyter or Google Colab.
 2. Run the setup cell first to create the sample data files.
 3. Run the remaining cells in order — each section (2.1, 2.2, 2.3) is
    self-contained and prints its own labeled output.
